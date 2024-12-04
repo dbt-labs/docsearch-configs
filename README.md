@@ -1,3 +1,15 @@
+# ***Archival Notice***
+This repository has been archived.
+
+As a result all of its historical issues and PRs have been closed.
+
+Please *do not clone* this repo without understanding the risk in doing so:
+- It may have unaddressed security vulnerabilities
+- It may have unaddressed bugs
+
+<details>
+   <summary>Click for historical readme</summary>
+
 # DocSearch configurations
 
 This repository holds configuration files used by each documentation DocSearch
@@ -30,3 +42,4 @@ DocSearch is made of 3 repositories:
 [3]: https://github.com/algolia/docsearch
 [4]: https://github.com/algolia/docsearch-configs
 [5]: https://github.com/algolia/docsearch-scraper
+
